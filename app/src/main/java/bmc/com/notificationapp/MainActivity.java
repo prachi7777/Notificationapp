@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     Button btn_notify,custom_notify;
-
+     //this is main code
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
